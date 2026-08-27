@@ -80,7 +80,8 @@ A curated collection of DevOps, Docker, Kubernetes, and Linux books in PDF, EPUB
 | - | ----- | ------ |
 | 1 | How Linux Works: What Every Superuser Should Know | PDF |
 | 2 | Linux Basics for Hackers | PDF |
-| 3 | UNIX and Linux System Administration Handbook (4th Edition) | PDF |
+| 3 | Linux System Administration - Paul Cobbaunt | PDF |
+| 4 | UNIX and Linux System Administration Handbook (4th Edition) | PDF |
 
 ---
 
